@@ -1,0 +1,562 @@
+Timestamp,Email address,Drop Off Location,City,Stake,Ward/Branch,Route Number/Name,# of Adult Volunteers in this route,# of Youth Volunteers in this route,# of Donation Bags Collected/Route,Time to Complete (in minutes) pick up of bags /route,Did you complete more than 1 route?,Comments,Number of routes completed,# of Doors in Route,The time you started at:,The time you ended at
+9/23/2023 10:36:10,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,1,3,14,25,No,,,14,10:00:00 AM,10:25:00 AM
+9/23/2023 10:36:52,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,3,1,18,25,Yes,,2,144,10:00:00 AM,10:30:00 AM
+9/23/2023 10:40:22,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,0,20,30,No,,,186,10:00:00 AM,10:30:00 AM
+9/23/2023 10:41:08,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,0,20,25,Yes,,1,,10:00:00 AM,10:30:00 AM
+9/23/2023 10:44:10,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,1,0,2,5,No,,,1,,
+9/23/2023 10:48:19,,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,2,0,20,20,No,,,179,10:20:00 AM,10:40:00 AM
+9/23/2023 10:50:22,Danna,Gateway Stake Centre,,Gateway Stake,Lee Ridge Ward,,1,4,17,25,No,,,141,10:26:00 AM,10:48:00 AM
+9/23/2023 10:51:08,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,0,32,45,No,,,27,,
+9/23/2023 10:51:58,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,0,100,5,Yes,,2,200,10:00:00 AM,10:49:00 AM
+9/23/2023 10:52:50,,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,2,3,15,45,No,,,13,10:10:00 AM,10:45:00 AM
+9/23/2023 10:53:37,Carlos.freiregibb@macewan.ca,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Connors Hill Ward,,1,2,30,30,No,,,300?,10:10:00 AM,10:40:00 AM
+9/23/2023 10:55:47,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,1,0,17,60,No,,,110,10:00:00 AM,
+9/23/2023 10:55:58,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,3,2,20,40,No,Route bowen: 41-113,,107,10:05:00 AM,10:45:00 AM
+9/23/2023 10:56:13,dmurugan@mynorquest.ca,Coronation Park Chapel,,Bonnie Doon Stake,Coronation Park Ward,,2,1,25,55,No,,,20,10:00:00 AM,10:55:00 AM
+9/23/2023 10:58:47,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,2,3,24,45,Yes,,3,250,10:00:00 AM,10:45:00 AM
+9/23/2023 10:59:19,marcyami@gmail.com,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Connors Hill Ward,,3,5,10,60,No,it was good,,184,10:00:00 AM,11:00:00 AM
+9/23/2023 11:01:08,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,2,12,30,No,,,12,,
+9/23/2023 11:01:52,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,0,30,45,Yes,,2,,10:00:00 AM,11:00:00 AM
+9/23/2023 11:03:03,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,0,16,25,No,Route 1,,98,10:30:00 AM,10:55:00 AM
+9/23/2023 11:03:09,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,2,2,10,20,Yes,half of the route had no flyer signs,2,120,10:30:00 AM,10:50:00 AM
+9/23/2023 11:03:15,dmurugan@mynorquest.ca,Coronation Park Chapel,,Bonnie Doon Stake,Coronation Park Ward,,2,0,20,60,No,,,96,10:00:00 AM,11:00:00 AM
+9/23/2023 11:03:27,sirtonski7@hotmail.com,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,5,0,29,30,No,,,19,10:30:00 AM,11:00:00 AM
+9/23/2023 11:04:02,tylerbcard@gmail.com,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,2,1,40,30,No,,,200,10:15:00 AM,11:00:00 AM
+9/23/2023 11:04:30,dmurugan@mynorquest.ca,Coronation Park Chapel,,Bonnie Doon Stake,Coronation Park Ward,,2,0,18,63,No,,,140,10:00:00 AM,11:03:00 AM
+9/23/2023 11:05:27,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,3,21,30,No,,,1,10:30:00 AM,11:02:00 AM
+9/23/2023 11:06:19,dceleste89@gmail.com,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,5,3,24,40,No,,,157,10:20:00 AM,11:00:00 AM
+9/23/2023 11:06:35,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Connors Hill Ward,,2,3,40,180,Yes,We had 2 routes,2,375,10:00:00 AM,11:00:00 AM
+9/23/2023 11:06:47,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,3,0,35,30,No,None,,250,10:40:00 AM,11:00:00 PM
+9/23/2023 11:06:48,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,0,15,25,No,,,116,10:35:00 AM,11:00:00 AM
+9/23/2023 11:07:00,joannanesom@gmail.com,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,2,0,30,30,No,no comments,,115,10:30:00 AM,11:00:00 AM
+9/23/2023 11:07:50,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,1,1,36,45,No,An extra bag of rice not labelled,,15,,
+9/23/2023 11:08:23,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,2,0,16,30,No,"Route 178, for 16 houses",,110,10:30:00 AM,11:05:00 AM
+9/23/2023 11:09:01,Michelcindie@gmail.com,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,2,2,15,30,No,,,90,10:30:00 AM,11:08:00 AM
+9/23/2023 11:09:16,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,1,21,45,No,,,206,10:15:00 AM,11:00:00 AM
+9/23/2023 11:09:16,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,3,21,32,No,,,202,10:30:00 AM,11:02:00 AM
+9/23/2023 11:09:20,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,1,1,23,45,No,,,206,10:15:00 AM,11:00:00 AM
+9/23/2023 11:09:47,jean-ann@telus.net,Riverbend Stake Centre,,Riverbend Stake,Greenfield Ward,,2,0,30,50,No,There were lots of homes with the bags in their mailboxes,,172,10:00:00 AM,10:50:00 AM
+9/23/2023 11:10:31,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,2,0,24,30,No,156,,23,10:00:00 AM,
+9/23/2023 11:11:29,dmurugan@mynorquest.ca,Coronation Park Chapel,,Bonnie Doon Stake,Coronation Park Ward,,2,0,5,32,No,,,302,10:30:00 AM,11:09:00 AM
+9/23/2023 11:11:38,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,3,29,60,No,,,107,10:00:00 AM,11:00:00 AM
+9/23/2023 11:11:39,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,1,0,20,20,No,,,100,10:40:00 AM,11:00:00 AM
+9/23/2023 11:11:53,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,1,17,30,No,,,182,10:00:00 AM,
+9/23/2023 11:12:39,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,3,0,15,45,Yes,"Routes 34, 29",2,200,10:20:00 AM,11:11:00 AM
+9/23/2023 11:12:49,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,2,24,30,No,,,20,10:40:00 AM,11:10:00 AM
+9/23/2023 11:13:44,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,0,26,45,No,,,150,10:30:00 AM,11:10:00 AM
+9/23/2023 11:14:24,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,3,0,24,35,No,It' was a good gig.,,194,10:24:00 AM,11:04:00 AM
+9/23/2023 11:14:30,julialayton23@gmail.com,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,3,3,30,60,Yes,,2,100,10:00:00 AM,11:13:00 AM
+9/23/2023 11:14:32,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,2,33,50,Yes,,1,207,10:15:00 AM,11:05:00 AM
+9/23/2023 11:14:37,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,2,11,35,No,57,,116,,
+9/23/2023 11:15:10,,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,2,0,15,45,No,We went through the route twice. Donations on the route are down dramatically. Less than half of the usual of the last 10 years.,,135,10:40:00 AM,11:15:00 AM
+9/23/2023 11:16:08,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,1,0,11,20,No,,,29,10:55:00 AM,11:08:00 AM
+9/23/2023 11:17:13,,Riverbend Stake Centre,,Riverbend Stake,Rabbit Hill Ward,,2,3,22,30,No,,,80,10:20:00 AM,11:00:00 AM
+9/23/2023 11:17:17,,North Stake Centre,,Edmonton North Stake,Namao Ward,,2,0,23,100,No,,,160,9:30:00 AM,11:10:00 AM
+9/23/2023 11:17:27,,Gateway Stake Centre,,Gateway Stake,Wainwright Branch,,2,0,23,30,No,People with whom i interact on Tuesdays gave more,,137,10:45:00 AM,11:15:00 AM
+9/23/2023 11:18:13,,Gateway Stake Centre,,Gateway Stake,Lee Ridge Ward,,1,4,16,20,Yes,"It was great, the kids had fun!",2,147,10:50:00 AM,11:10:00 AM
+9/23/2023 11:19:28,rallred@telusplanet.net,Riverbend Stake Centre,,Riverbend Stake,Rabbit Hill Ward,,4,2,59,60,Yes,,2,236,10:00:00 AM,11:00:00 AM
+9/23/2023 11:20:02,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,1,1,5,17,No,,,135,11:00:00 AM,11:17:00 AM
+9/23/2023 11:20:34,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,3,35,70,No,,,370,10:10:00 AM,11:15:00 AM
+9/23/2023 11:20:59,elainegs2003@yahoo.ca,Riverbend Stake Centre,,Riverbend Stake,Woodbend Ward,,3,,25,45,No,,,100?,10:20:00 AM,11:05:00 AM
+9/23/2023 11:21:02,Familylifeisthebest@shaw.ca,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,0,15,40,No,,,115,10:40:00 AM,11:20:00 AM
+9/23/2023 11:21:27,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,2,16,60,No,,,200,10:30:00 AM,11:20:00 AM
+9/23/2023 11:22:37,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,0,20,30,No,,,198,10:45:00 AM,11:15:00 AM
+9/23/2023 11:22:37,Jpsse@gmail.com,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Connors Hill Ward,,2,0,25,40,No,,,235,10:15:00 AM,11:15:00 AM
+9/23/2023 11:23:00,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,0,20,35,No,Route 33,,100,10:10:00 AM,10:50:00 AM
+9/23/2023 11:23:31,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,1,22,50,No,,,191,10:00:00 AM,10:50:00 AM
+9/23/2023 11:24:00,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,0,9,20,No,,,100,10:30:00 AM,10:50:00 AM
+9/23/2023 11:24:25,Andreabarnes81@gmail.com,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,0,31,58,No,It was awesome,,27,10:23:00 AM,11:20:00 AM
+9/23/2023 11:24:29,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,4,0,26,50,No,,,168,10:30:00 AM,11:20:00 AM
+9/23/2023 11:24:46,,North Stake Centre,,Edmonton North Stake,Namao Ward,,1,4,42,50,No,,,392,10:20:00 AM,11:20:00 AM
+9/23/2023 11:25:07,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,2,3,18,120,No,No comments,,100,10:25:00 AM,11:21:00 AM
+9/23/2023 11:25:08,simonkonietz@gmail.com,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,3,21,50,Yes,The Walmart bags are very difficult to see and it was awful to deliver them. Having to staple the food drive papers to the bags was very time consuming. People think those bags are just garbage. I’d prefer no bag and door hangers over this in the next year. The yellow bags from past years were the best!,2 routes. #74 & 89,317,10:30:00 AM,11:20:00 AM
+9/23/2023 11:25:22,,Riverbend Stake Centre,,Riverbend Stake,Greenfield Ward,,3,0,54,75,No,,,212,10:00:00 AM,11:20:00 AM
+9/23/2023 11:25:29,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,1,2,11,30,Yes,,2,261,10:50:00 AM,11:23:00 AM
+9/23/2023 11:25:49,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,0,15,40,No,,,115,10:40:00 AM,11:20:00 AM
+9/23/2023 11:26:50,dmurugan@mynorquest.ca,Coronation Park Chapel,,Edmonton North Stake,Stony Plain Ward,,1,2,31,45,Yes,,2,453,10:15:00 AM,11:24:00 AM
+9/23/2023 11:27:33,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,0,27,40,No,,,23,10:40:00 AM,11:20:00 AM
+9/23/2023 11:27:42,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,0,12,25,No,,,110,11:00:00 AM,11:25:00 AM
+9/23/2023 11:27:42,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,2,0,34,60,Yes,,2,32,,
+9/23/2023 11:27:48,wes.fairbanks@gmail.com,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,2,3,37,30,Yes,None,2,144,11:00:00 AM,11:30:00 AM
+9/23/2023 11:27:49,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,0,26,35,No,,,220,10:35:00 AM,11:10:00 AM
+9/23/2023 11:27:57,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,2,0,9,45,No,183,,,10:30:00 AM,
+9/23/2023 11:28:25,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,0,11,15,No,,,165,11:00:00 AM,11:15:00 AM
+9/23/2023 11:28:28,,Bearspaw Chapel,,Gateway Stake,Wild Rose Ward,,1,7,6,60,Yes,Thanks,2,315,10:30:00 AM,11:30:00 AM
+9/23/2023 11:29:13,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,2,43,60,Yes,Route 45,2,300,10:20:00 AM,11:15:00 AM
+9/23/2023 11:29:14,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,1,35,60,Yes,"Routes 6,7 from calverts",2,250,10:25:00 AM,11:22:00 AM
+9/23/2023 11:29:17,,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,2,0,8,60,No,,,162,10:00:00 AM,11:00:00 AM
+9/23/2023 11:29:41,dmurugan@mynorquest.ca,Coronation Park Chapel,,Bonnie Doon Stake,Coronation Park Ward,,1,1,38,90,Yes,,2,300,,
+9/23/2023 11:30:31,,Riverbend Stake Centre,,Riverbend Stake,Woodbend Ward,,1,3,10,30,No,,,10,11:00:00 AM,11:30:00 AM
+9/23/2023 11:30:44,Nakennett@gmail.com,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,3,20,50,No,,,219,10:40:00 AM,11:30:00 AM
+9/23/2023 11:30:53,,Riverbend Stake Centre,,Riverbend Stake,Terwillegar Park Ward,,3,0,60,90,No,more people donated than last year yea!!!,,250,10:00:00 AM,11:30:00 AM
+9/23/2023 11:30:57,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,1,2,6,45,No,130,,150,10:30:00 AM,
+9/23/2023 11:31:20,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,0,45,75,No,,,300,10:00:00 AM,11:15:00 AM
+9/23/2023 11:31:51,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,0,24,40,No,It was great. So fun,,167,10:40:00 AM,11:30:00 AM
+9/23/2023 11:31:53,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,3,35,60,No,Route: 16,,180,10:30:00 AM,11:30:00 AM
+9/23/2023 11:32:09,anna.nemchinovich@gmail.com,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,2,0,20,45,No,,,95,10:00:00 AM,11:29:00 AM
+9/23/2023 11:32:25,,Gateway Stake Centre,,Gateway Stake,Rio Vista Ward,,7,7,46,60,No,Fun to do,,219,10:20:00 AM,11:20:00 AM
+9/23/2023 11:32:48,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,1,1,15,55,Yes,,2,236,10:30:00 AM,11:25:00 AM
+9/23/2023 11:32:52,,Riverbend Stake Centre,,Riverbend Stake,Rutherford Ward,,2,0,20,45,No,,,13,10:45:00 AM,11:30:00 AM
+9/23/2023 11:33:06,,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,1,0,15,45,No,,,15,10:30:00 AM,11:15:00 AM
+9/23/2023 11:33:12,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,2,19,45,No,,,198,10:45:00 AM,11:20:00 AM
+9/23/2023 11:33:17,dmurugan@mynorquest.ca,Coronation Park Chapel,,Edmonton North Stake,Stony Plain Ward,,1,0,30,47,Yes,Belmed +195,2,155,,
+9/23/2023 11:33:18,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,0,35,70,No,,,134,10:15:00 AM,11:22:00 AM
+9/23/2023 11:34:06,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,0,4,10,No,32,,,10:30:00 AM,
+9/23/2023 11:34:13,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,4,23,50,No,,,203,10:40:00 AM,11:30:00 AM
+9/23/2023 11:34:14,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,2,0,12,50,No,Route 182,,180,10:30:00 AM,11:33:00 AM
+9/23/2023 11:35:15,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,1,3,7,30,No,,,7,10:30:00 AM,11:00:00 AM
+9/23/2023 11:35:17,,Riverbend Stake Centre,,Riverbend Stake,Greenfield Ward,,2,0,40,60,No,,,20,10:30:00 AM,11:35:00 AM
+9/23/2023 11:35:32,dmurugan@mynorquest.ca,Coronation Park Chapel,,Bonnie Doon Stake,Coronation Park Ward,,2,2,72,45,Yes,,3,63,10:00:00 AM,11:21:00 AM
+9/23/2023 11:35:32,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,1,2,22,60,No,,,150,10:45:00 AM,11:30:00 AM
+9/23/2023 11:35:54,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Connors Hill Ward,,3,1,40,60,No,,,160,10:30:00 AM,11:14:00 AM
+9/23/2023 11:36:12,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,3,20,60,Yes,,2,44 +150,10:30:00 AM,11:30:00 AM
+9/23/2023 11:37:24,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,1,0,33,45,Yes,No comu,2,130,10:45:00 AM,11:30:00 AM
+9/23/2023 11:38:06,,Riverbend Stake Centre,,Riverbend Stake,Rutherford Ward,,1,2,18,40,No,,,14,10:10:00 AM,10:50:00 AM
+9/23/2023 11:38:32,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,0,17,40,No,,,170,10:50:00 AM,11:30:00 AM
+9/23/2023 11:38:37,,Riverbend Stake Centre,,Riverbend Stake,Rutherford Ward,,2,1,12,15,No,,,12,11:00:00 AM,11:40:00 AM
+9/23/2023 11:38:50,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,3,0,17,45,No,,,13,10:30:00 AM,11:30:00 AM
+9/23/2023 11:38:55,Devonee.gilson@hotmail.com,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,0,"16 in route 62, 8 in route 66, 9 in route 68 & 4 in a laurel route",15,Yes,,4,"130, 130, 130,130",10:40:00 AM,11:34:00 AM
+9/23/2023 11:39:12,,North Stake Centre,,Edmonton North Stake,Namao Ward,,2,0,12,100,No,,,175,10:00:00 AM,11:35:00 AM
+9/23/2023 11:39:29,Stephenmcarrell@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Rabbit Hill Ward,,2,2,10,10,No,,,70,11:10:00 AM,11:38:00 AM
+9/23/2023 11:39:36,,Riverbend Stake Centre,,Riverbend Stake,Terwillegar Park Ward,,1,3,50,60,No,,,38,10:15:00 AM,11:20:00 AM
+9/23/2023 11:41:02,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Connors Hill Ward,,2,0,10,30,No,,,136,11:00:00 AM,11:30:00 AM
+9/23/2023 11:41:11,,Riverbend Stake Centre,,Riverbend Stake,Greenfield Ward,,4,0,23,45,No,,,192,10:40:00 AM,11:40:00 AM
+9/23/2023 11:41:30,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,1,3,15,60,No,,,14,10:30:00 AM,11:30:00 AM
+9/23/2023 11:41:30,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,1,3,7,40,No,,,90,10:40:00 AM,11:20:00 AM
+9/23/2023 11:41:58,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,1,0,16,30,No,,,135,10:47:00 AM,11:17:00 AM
+9/23/2023 11:42:17,Julie.m.bevans@gmail.com,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,1,2,28,35,No,,,203,10:50:00 AM,11:25:00 AM
+9/23/2023 11:42:21,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,1,2,12,20,No,Route: 46,,110,11:15:00 AM,11:40:00 AM
+9/23/2023 11:42:33,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Connors Hill Ward,,2,0,25,60,No,Manageable but have lot of no flywrs,,249,10:40:00 AM,11:40:00 AM
+9/23/2023 11:42:43,,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,19,2,15,55,No,,,158,10:30:00 AM,11:40:00 AM
+9/23/2023 11:43:10,Lmeeks7@hotmail.com,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,7,0,17,40,No,,,170,11:00:00 AM,11:42:00 AM
+9/23/2023 11:43:36,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,2,9,20,No,,,138,11:20:00 AM,11:40:00 AM
+9/23/2023 11:43:38,,Riverbend Stake Centre,,Riverbend Stake,Rabbit Hill Ward,,4,1,15,15,No,,,80,11:00:00 AM,11:15:00 AM
+9/23/2023 11:44:15,klsommerfeldt@gmail.com,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,3,3,55,47,No,,,165,10:53:00 AM,11:40:00 AM
+9/23/2023 11:44:50,joanne.macdonald@outlook.com,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,3,2,30,40,Yes,,2,256,10:45:00 AM,11:25:00 AM
+9/23/2023 11:44:51,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,3,1,40,100,Yes,,2,419,10:00:00 AM,11:40:00 AM
+9/23/2023 11:45:08,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,2,15,60,No,,,106,10:40:00 AM,11:30:00 AM
+9/23/2023 11:45:10,dmurugan@mynorquest.ca,Coronation Park Chapel,,Bonnie Doon Stake,Coronation Park Ward,,2,2,35,75,Yes,,2,144,10:30:00 AM,11:44:00 AM
+9/23/2023 11:45:19,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,1,11,60,Yes,,2,11,10:40:00 AM,11:40:00 AM
+9/23/2023 11:45:26,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,2,0,16,40,No,,,125,11:00:00 AM,11:40:00 AM
+9/23/2023 11:45:27,,Gateway Stake Centre,,Gateway Stake,Lee Ridge Ward,,1,2,32,35,No,40 houses don’t allowed put bags,,173,11:00:00 AM,11:35:00 AM
+9/23/2023 11:45:51,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,0,18,55,No,,,90,10:45:00 AM,11:40:00 AM
+9/23/2023 11:46:39,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,2,4,32,45,No,No comment,,200,10:30:00 AM,11:43:00 AM
+9/23/2023 11:46:45,dmurugan@mynorquest.ca,Coronation Park Chapel,,Bonnie Doon Stake,Coronation Park Ward,,3,0,18,45,No,,,143,11:00:00 AM,11:45:00 AM
+9/23/2023 11:47:14,,Riverbend Stake Centre,,Riverbend Stake,Terwillegar Park Ward,,2,0,44,70,Yes,Equal no of bags collected like last year,1.5,285,10:30:00 AM,11:45:00 AM
+9/23/2023 11:47:25,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,3,30,60,Yes,,2,23,10:30:00 AM,11:45:00 AM
+9/23/2023 11:47:26,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,3,2,30,40,No,,,210,11:00:00 AM,11:45:00 AM
+9/23/2023 11:47:31,,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,2,0,35,60,No,We enjoyed the experience,,148,3:30:00 AM,5:30:00 AM
+9/23/2023 11:47:40,,Riverbend Stake Centre,,Riverbend Stake,Rutherford Ward,,2,0,44,60,Yes,,2,446,10:20:00 AM,11:20:00 AM
+9/23/2023 11:47:47,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,1,2,35,45,No,50,,200,10:30:00 AM,
+9/23/2023 11:48:45,dmurugan@mynorquest.ca,Coronation Park Chapel,,Bonnie Doon Stake,Coronation Park Ward,,3,1,117,45,Yes,,4,403,10:15:00 AM,11:45:00 AM
+9/23/2023 11:48:55,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,0,30,105,Yes,,3,356,10:00:00 AM,11:45:00 AM
+9/23/2023 11:49:00,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,2,2,40,70,Yes,Routes 159 & 160,2,200,10:30:00 AM,11:40:00 AM
+9/23/2023 11:49:10,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,2,0,3,3,No,Collecting late bags. Route 156,,,,
+9/23/2023 11:49:31,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,0,30,55,No,No flyer houses -13,,174,10:45:00 AM,11:40:00 AM
+9/23/2023 11:49:55,,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,4,3,26,30,No,"Don’t separate D flyers from bags, takes longer to drop off",,148,11:10:00 AM,11:46:00 AM
+9/23/2023 11:50:20,,Riverbend Stake Centre,,Riverbend Stake,Terwillegar Park Ward,,1,1,24,90,No,,,170,10:10:00 AM,11:40:00 AM
+9/23/2023 11:50:31,,Riverbend Stake Centre,,Riverbend Stake,Terwillegar Park Ward,,2,0,70,90,Yes,,1,312,10:00:00 AM,11:48:00 AM
+9/23/2023 11:50:39,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,2,3,20,60,No,,,120,10:45:00 AM,11:45:00 AM
+9/23/2023 11:50:42,Jennaitken36@hotmail.com,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,1,0,26,40,Yes,,2 and helped with a 3rd,191,11:15:00 AM,11:51:00 AM
+9/23/2023 11:50:53,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,1,23,32,Yes,One and half route,One and half,195,11:00:00 AM,11:32:00 AM
+9/23/2023 11:50:57,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,2,0,15,30,No,Route: 108,,121,11:12:00 AM,11:50:00 AM
+9/23/2023 11:50:57,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,3,13,15,No,,,115,11:15:00 AM,11:45:00 AM
+9/23/2023 11:51:01,Martybevans@hotmail.com,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,1,2,20,50,Yes,,2,260,10:50:00 AM,11:40:00 AM
+9/23/2023 11:51:03,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,1,1,18,45,No,No comment,,125,11:10:00 AM,11:46:00 AM
+9/23/2023 11:51:04,,Gateway Stake Centre,,Gateway Stake,Lee Ridge Ward,,2,1,36,40,No,,,145,11:05:00 AM,11:49:00 AM
+9/23/2023 11:52:14,,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,5,1,6,15,No,,,40,11:00:00 AM,12:00:00 PM
+9/23/2023 11:52:21,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,2,35,60,No,,,214,10:30:00 AM,11:30:00 AM
+9/23/2023 11:52:29,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,0,6,15,No,,,168,11:35:00 AM,11:50:00 AM
+9/23/2023 11:52:34,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,3,2,43,60,Yes,,2,40,10:45:00 AM,11:45:00 AM
+9/23/2023 11:52:36,,Riverbend Stake Centre,,Riverbend Stake,Terwillegar Park Ward,,3,1,19,40,No,,,150,11:00:00 AM,11:50:00 AM
+9/23/2023 11:52:53,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,1,10,52,No,,,120,11:00:00 AM,11:52:00 AM
+9/23/2023 11:53:00,johnsonerink@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Greenfield Ward,,2,1,48,44,Yes,,2,208,10:15:00 AM,10:59:00 AM
+9/23/2023 11:53:08,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,4,0,42,60,Yes,,2,194,10:15:00 AM,11:51:00 AM
+9/23/2023 11:53:13,,Riverbend Stake Centre,,Riverbend Stake,Woodbend Ward,,1,2,40,30,No,,,220,10:30:00 AM,11:00:00 AM
+9/23/2023 11:53:24,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,1,1,30,60,No,,,100,10:45:00 AM,
+9/23/2023 11:53:25,,Londonderry Chapel,,Bonnie Doon Stake,Sherwood Park,,1,5,25,45,No,,,25,,
+9/23/2023 11:54:28,dmurugan@mynorquest.ca,Coronation Park Chapel,,Bonnie Doon Stake,Coronation Park Ward,,2,1,55,110,Yes,,2,,10:15:00 AM,11:53:00 AM
+9/23/2023 11:54:49,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Connors Hill Ward,,1,1,40,150,Yes,No comment,2,180,10:15:00 AM,11:50:00 AM
+9/23/2023 11:54:54,,Riverbend Stake Centre,,Riverbend Stake,Greenfield Ward,,2,0,50,270,Yes,,1,210,10:30:00 AM,11:53:00 AM
+9/23/2023 11:55:46,,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,6,5,48,49,No,,,162,11:11:00 AM,11:53:00 AM
+9/23/2023 11:55:50,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,2,2,17,51,No,,,75,11:00:00 AM,11:54:00 AM
+9/23/2023 11:55:52,,Riverbend Stake Centre,,Riverbend Stake,Rutherford Ward,,2,2,65,90,Yes,,2,650,10:20:00 AM,11:30:00 AM
+9/23/2023 11:56:02,,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,2,2,15,60,No,,,100,10:40:00 AM,11:55:00 AM
+9/23/2023 11:56:12,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,3,31,50,No,Sign for cars would be good and while dropping they should give shirts that show they are doing voluntary work,,180,11:00:00 AM,11:50:00 AM
+9/23/2023 11:56:49,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,2,0,6,35,No,Route 136,,110,10:35:00 AM,11:40:00 AM
+9/23/2023 11:56:50,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,1,0,30,75,Yes,,2,"150, 100",10:30:00 AM,
+9/23/2023 11:57:15,dmurugan@mynorquest.ca,Coronation Park Chapel,,Bonnie Doon Stake,Coronation Park Ward,,4,0,37,45,Yes,,2,,10:15:00 AM,11:55:00 AM
+9/23/2023 11:57:29,,Bearspaw Chapel,,Bonnie Doon Stake,Strathcona Married Student Ward,,2,1,10,30,No,,,90,11:00:00 AM,11:45:00 AM
+9/23/2023 11:57:33,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,4,0,17,30,No,,,17,,
+9/23/2023 11:57:41,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,2,34,28,No,,,203,11:10:00 AM,11:38:00 AM
+9/23/2023 11:57:50,,Riverbend Stake Centre,,Riverbend Stake,Woodbend Ward,,1,1,15,15,No,,,8,11:30:00 AM,11:45:00 AM
+9/23/2023 11:58:04,jabc53@gmail.com,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,24,0,14,24,Yes,,2,146,10:52:00 AM,11:16:00 AM
+9/23/2023 11:58:26,,Riverbend Stake Centre,,Riverbend Stake,Rabbit Hill Ward,,3,0,52,80,Yes,,2,313,10:50:00 AM,11:57:00 AM
+9/23/2023 11:58:31,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,3,50,90,Yes,"The bags were garbage, they should've been better (maybe use door hangers instead)",3,460,10:00:00 AM,11:30:00 AM
+9/23/2023 11:58:43,dmurugan@mynorquest.ca,Coronation Park Chapel,,Bonnie Doon Stake,Coronation Park Ward,,2,2,37,57,No,,,,11:00:00 AM,11:57:00 AM
+9/23/2023 11:58:44,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,0,23,30,No,,,20,11:00:00 AM,11:30:00 AM
+9/23/2023 11:58:54,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,2,3,28,57,Yes,,2,200,11:00:00 AM,11:57:00 AM
+9/23/2023 11:59:08,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,2,19,30,No,,,100,11:00:00 AM,11:30:00 AM
+9/23/2023 11:59:28,vhprice53@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Woodbend Ward,,2,0,15,40,No,,,80,10:30:00 AM,11:58:00 AM
+9/23/2023 11:59:44,,Riverbend Stake Centre,,Riverbend Stake,Greenfield Ward,,2,3,27,60,No,,,21,10:40:00 AM,11:40:00 AM
+9/23/2023 11:59:57,,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,2,2,9,60,No,,,150,11:00:00 AM,12:00:00 PM
+9/23/2023 12:00:01,,Gateway Stake Centre,,Gateway Stake,Lee Ridge Ward,,2,3,30,35,No,,,30,11:10:00 AM,11:45:00 AM
+9/23/2023 12:00:11,,Riverbend Stake Centre,,Riverbend Stake,Woodbend Ward,,1,5,70,60,No,,,350,10:45:00 AM,11:45:00 AM
+9/23/2023 12:00:20,,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,2,20,20,60,No,Great experience to thank our neighbors for their generosity.,,147,11:00:00 AM,12:00:00 PM
+9/23/2023 12:00:28,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,4,14,30,No,,,190,11:08:00 AM,11:39:00 AM
+9/23/2023 12:00:59,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,0,38,90,No,,,243,10:00:00 AM,11:30:00 AM
+9/23/2023 12:01:01,Gparneet993@gmail.com,Bearspaw Chapel,,YSA Stake,Windsor Park YSA Ward,,1,2,50,60,Yes,Good,2,110,10:45:00 AM,11:43:00 AM
+9/23/2023 12:01:01,dmurugan@mynorquest.ca,Coronation Park Chapel,,Bonnie Doon Stake,Coronation Park Ward,,1,1,15,60,No,,,100,11:00:00 AM,12:00:00 AM
+9/23/2023 12:01:07,jabc53@gmail.com,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,0,6,18,Yes,,2,136,11:18:00 AM,11:36:00 AM
+9/23/2023 12:01:35,,Riverbend Stake Centre,,Riverbend Stake,Woodbend Ward,,2,1,35,30,No,,,179,10:55:00 AM,12:00:00 PM
+9/23/2023 12:01:42,sorochan@hotmail.com,Riverbend Stake Centre,,Riverbend Stake,Greenfield Ward,,2,0,8,20,No,,,150,11:30:00 AM,12:00:00 PM
+9/23/2023 12:01:48,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,4,25,34,No,,,198,10:38:00 AM,11:12:00 AM
+9/23/2023 12:02:01,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,1,0,38,90,Yes,"2twice over. Routes: 145,146",2,300,10:00:00 AM,11:54:00 AM
+9/23/2023 12:02:07,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,0,28,45,No,64,,185,10:30:00 AM,
+9/23/2023 12:02:43,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,1,21,45,Yes,,2,150,10:30:00 AM,11:15:00 AM
+9/23/2023 12:02:48,,Riverbend Stake Centre,,Riverbend Stake,Rabbit Hill Ward,,1,1,30,45,No,,,158,11:20:00 AM,12:00:00 PM
+9/23/2023 12:02:50,Whitneystrong@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Greenfield Ward,,2,1,46,60,No,It’s awesome,,220,10:50:00 AM,11:50:00 AM
+9/23/2023 12:02:57,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,1,25,45,No,,,230,11:15:00 AM,12:00:00 PM
+9/23/2023 12:02:58,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,1,40,60,Yes,Lots of bags weren't seen or picked up by house owners,1,228,10:54:00 AM,11:47:00 AM
+9/23/2023 12:03:03,,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,1,2,31,60,No,,,143,11:05:00 AM,12:00:00 PM
+9/23/2023 12:03:20,Kikikenis@gmail.com,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,2,4,24,40,No,,,169,11:12:00 AM,11:52:00 AM
+9/23/2023 12:03:31,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,0,8,30,No,,,144,11:35:00 AM,12:05:00 PM
+9/23/2023 12:03:51,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,1,17,60,No,,,50,10:15:00 AM,11:30:00 AM
+9/23/2023 12:03:51,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,4,40,37,No,,,207,,
+9/23/2023 12:03:57,,Riverbend Stake Centre,,Riverbend Stake,Greenfield Ward,,2,0,44,80,No,,,200,10:30:00 AM,11:50:00 AM
+9/23/2023 12:04:02,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Connors Hill Ward,,1,0,19,60,Yes,,2,280,11:00:00 AM,12:03:00 AM
+9/23/2023 12:04:20,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,0,25,30,No,,,150,11:45:00 AM,11:55:00 AM
+9/23/2023 12:04:53,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,1,3,30 minutes,75,No,,,100,10:45:00 AM,12:00:00 AM
+9/23/2023 12:04:58,Maxpalmer25@gmail.com,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,4,0,24 houses,40,No,,,155,11:20:00 AM,12:05:00 PM
+9/23/2023 12:05:20,,Riverbend Stake Centre,,Riverbend Stake,Greenfield Ward,,2,4,45,120,No,,,45,10:15:00 AM,12:04:00 PM
+9/23/2023 12:05:24,Mvdkwong@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Rabbit Hill Ward,,2,1,80,70,Yes,,2,400,10:20:00 AM,12:00:00 PM
+9/23/2023 12:05:51,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,0,24,60,No,The bags should have the food bank on it not a flyer!!,,220,11:04:00 AM,12:04:00 AM
+9/23/2023 12:05:56,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,1,2,32,60,Yes,,2,215,11:00:00 AM,12:00:00 AM
+9/23/2023 12:07:03,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,1,0,5,30,No,,,40,11:00:00 AM,11:30:00 AM
+9/23/2023 12:07:12,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,2,4,22,20,No,Route 141,,,11:30:00 AM,12:03:00 AM
+9/23/2023 12:07:12,,Riverbend Stake Centre,,Riverbend Stake,Rutherford Ward,,3,0,14,30,No,,,159,10:50:00 AM,11:30:00 AM
+9/23/2023 12:07:13,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Strathcona Married Student Ward,,2,0,14,45,No,,,110,11:15:00 AM,11:50:00 AM
+9/23/2023 12:07:20,,Riverbend Stake Centre,,Riverbend Stake,Terwillegar Park Ward,,3,1,34,60,No,,,150,10:30:00 AM,12:06:00 PM
+9/23/2023 12:07:21,Maggie.Nelson.8.8@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Rutherford Ward,,2,0,12,35,No,,,159,11:30:00 AM,11:55:00 AM
+9/23/2023 12:07:40,,North Stake Centre,,Edmonton North Stake,Namao Ward,,1,4,22,60,No,,,236,10:00:00 AM,11:30:00 AM
+9/23/2023 12:08:09,Parker.stwrt@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Rutherford Ward,,2,2,35,30,No,,,207,11:15:00 AM,11:45:00 AM
+9/23/2023 12:08:36,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,1,5,16,30,No,,,120,10:30:00 AM,11:00:00 AM
+9/23/2023 12:08:55,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,1,4,40,60,Yes,177 and 181,2,200 and 200,10:45:00 AM,
+9/23/2023 12:09:14,,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,4,0,8,45,No,,,80 houses,11:00:00 AM,12:00:00 PM
+9/23/2023 12:09:18,,Gateway Stake Centre,,Gateway Stake,Lee Ridge Ward,,2,3,23,58,No,,,23,11:00:00 AM,11:58:00 AM
+9/23/2023 12:09:19,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,1,3,11,30,Yes,,2,170,11:30:00 AM,12:00:00 AM
+9/23/2023 12:09:23,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,3,1,28,30,No,,,123,11:30:00 AM,12:00:00 PM
+9/23/2023 12:09:35,,Riverbend Stake Centre,,Riverbend Stake,Terwillegar Park Ward,,4,0,25,60,No,,,100,11:00:00 AM,12:00:00 AM
+9/23/2023 12:10:09,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,3,0,16,30,No,,,75,11:00:00 AM,11:30:00 AM
+9/23/2023 12:10:15,Dtm1@ualberta.ca,Riverbend Stake Centre,,Riverbend Stake,Greenfield Ward,,2,2,30,25,No,,,196,11:30:00 AM,12:00:00 PM
+9/23/2023 12:10:22,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,1,3,32,52,Yes,,1.5,200,11:10:00 AM,12:02:00 PM
+9/23/2023 12:10:27,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,1,1,120,70,Yes,Worst thing ever to staple flyer's. Hard to find the bags since they're grey and not yellow,6,900,10:50:00 AM,12:07:00 AM
+9/23/2023 12:11:24,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,3,40,90,Yes,,3,380,10:30:00 AM,12:00:00 PM
+9/23/2023 12:11:42,dmurugan@mynorquest.ca,Coronation Park Chapel,,Bonnie Doon Stake,Coronation Park Ward,,2,0,44,60,Yes,,2,266,10:30:00 AM,11:30:00 AM
+9/23/2023 12:12:12,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,2,0,16,60,No,Route: 125,,100,11:05:00 AM,12:10:00 AM
+9/23/2023 12:12:28,,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,2,1,20,50,No,I’m not sure if you are asking how much time to deliver the route or pick it up. Questions should be more specific.,,158,11:15:00 AM,12:00:00 AM
+9/23/2023 12:12:28,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,1,1,25,35,No,,,26,11:30:00 AM,12:05:00 AM
+9/23/2023 12:12:42,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,2,39,60,No,,,,,
+9/23/2023 12:12:51,,Gateway Stake Centre,,Gateway Stake,Lee Ridge Ward,,2,1,44,60,Yes,It was great,1,168,11:00:00 AM,12:11:00 AM
+9/23/2023 12:13:19,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,3,24,60,No,Route shows 170 house but there 128,,128,10:30:00 AM,11:30:00 AM
+9/23/2023 12:13:23,dsplaw61@gmail.com,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,2,1,25,45,Yes,,2,256,11:15:00 AM,12:05:00 PM
+9/23/2023 12:13:27,,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,2,0,44,75,No,,,125,10:30:00 AM,11:55:00 AM
+9/23/2023 12:14:16,wes.fairbanks@gmail.com,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,2,3,22,35,Yes,Route 8 Lee Ridge,2,207,11:40:00 AM,12:12:00 PM
+9/23/2023 12:14:19,,Gateway Stake Centre,,Gateway Stake,Lee Ridge Ward,,2,0,20,55,No,,,25,11:05:00 AM,12:00:00 PM
+9/23/2023 12:15:03,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,2,67,100,Yes,,3,501,10:15:00 AM,11:55:00 AM
+9/23/2023 12:15:21,Petersen.kimiko@gmail.com,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,2,5,15,25,No,,,115,11:20:00 AM,12:44:00 AM
+9/23/2023 12:15:41,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,0,36,60,Yes,"Way less donations this year, not as much as usual",2,140,11:00:00 AM,12:13:00 AM
+9/23/2023 12:15:42,1toughgman@gmail.com,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,1,16,30,No,,,114,11:47:00 AM,12:08:00 PM
+9/23/2023 12:16:04,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,3,1,18,23,No,,,180,11:00:00 AM,11:23:00 AM
+9/23/2023 12:16:40,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,0,27,40,Yes,First 142 2and 125,2,267,11:11:00 AM,11:51:00 AM
+9/23/2023 12:16:43,,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,3,3,37,60,No,,,206,11:00:00 AM,11:50:00 AM
+9/23/2023 12:16:57,Stewclan.home@gmail.com,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,2,0,12 homes,60,No,,,Not sure - lots of no flyers,11:00:00 AM,12:00:00 PM
+9/23/2023 12:17:00,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,3,0,150,120,Yes,Route 161 133 and 127,4,450,10:45:00 AM,11:50:00 AM
+9/23/2023 12:17:02,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,3,1,28,27,No,,,184,11:30:00 AM,11:57:00 AM
+9/23/2023 12:17:03,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,1,2,25,45,No,154,,135,11:00:00 AM,
+9/23/2023 12:17:25,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,1,0,7,45,No,,,40,11:15:00 AM,12:00:00 AM
+9/23/2023 12:17:56,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,0,28,90,Yes,,2,460,10:20:00 AM,11:50:00 AM
+9/23/2023 12:18:50,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,0,17,60,No,,,153,11:20:00 AM,12:15:00 AM
+9/23/2023 12:19:06,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,1,2,20,60,No,Very thorough. Route: 212,,110,10:30:00 AM,12:17:00 AM
+9/23/2023 12:19:42,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,4,59,105,Yes,"1- 228 ,2-264",2,492,10:30:00 AM,12:15:00 AM
+9/23/2023 12:19:45,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,0,17,60,No,Way less donations this year. We were expecting more,,235,11:00:00 AM,12:18:00 PM
+9/23/2023 12:20:15,,Riverbend Stake Centre,,Riverbend Stake,Rabbit Hill Ward,,2,1,100,90,Yes,,3,482,10:00:00 AM,12:17:00 PM
+9/23/2023 12:20:27,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,3,65,65,Yes,,3,65,10:30:00 AM,11:35:00 AM
+9/23/2023 12:20:30,collinpalmer12@gmail.com,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,26,3,25,35,No,,,19,11:32:00 AM,12:05:00 AM
+9/23/2023 12:20:56,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,0,15,20,No,,,50,11:45:00 AM,
+9/23/2023 12:21:26,Mmawood@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Rutherford Ward,,2,0,19,65,No,,,174,11:15:00 AM,12:20:00 PM
+9/23/2023 12:21:31,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,1,2,20,20,No,Route: 123. Signed up online. Extra doors,,,11:00:00 AM,12:19:00 AM
+9/23/2023 12:21:31,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,2,36,35,No,,,216,11:30:00 AM,12:05:00 PM
+9/23/2023 12:21:38,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,1,1,14,60,No,,,135,11:00:00 AM,12:10:00 PM
+9/23/2023 12:21:42,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,2,60,80,Yes,,2,366,10:30:00 AM,12:10:00 AM
+9/23/2023 12:22:04,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,3,1,30,60,No,Route # 221,,,,
+9/23/2023 12:22:14,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,0,35,75,Yes,,3,75,11:15:00 AM,12:10:00 AM
+9/23/2023 12:22:56,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,1,2,24,30,No,,,244,11:47:00 AM,12:15:00 PM
+9/23/2023 12:24:58,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,2,2,60,60,Yes,"120, 118, 119",3,165,10:45:00 AM,
+9/23/2023 12:25:02,,North Stake Centre,,Edmonton North Stake,Namao Ward,,1,3,30,35,No,,,272,11:45:00 AM,12:20:00 PM
+9/23/2023 12:25:04,,Riverbend Stake Centre,,Riverbend Stake,Rabbit Hill Ward,,2,8,200,240,Yes,,8,1420,10:00:00 AM,12:00:00 PM
+9/23/2023 12:25:06,malcolmlds@gmail.com,Bearspaw Chapel,,Gateway Stake,Beaumont Ward,,2,2,20,45,Yes,,2,150-200,10:30:00 AM,12:20:00 AM
+9/23/2023 12:25:08,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,3,25,40,No,,,60,11:45:00 AM,12:23:00 PM
+9/23/2023 12:25:09,,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,1,4,30,45,No,,,160,11:30:00 AM,12:15:00 AM
+9/23/2023 12:26:31,,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,2,4,18,45,No,,,154,11:00:00 AM,11:45:00 AM
+9/23/2023 12:26:53,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,4,80,110,Yes,,5,500,10:35:00 AM,12:20:00 AM
+9/23/2023 12:27:15,,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,1,1,20,60,No,Great,,161,11:30:00 AM,12:25:00 AM
+9/23/2023 12:28:02,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,3,5,66,115,Yes,"1-273, 2-184,3- 197 houses",3,654,10:15:00 AM,12:22:00 AM
+9/23/2023 12:28:07,Patfitzner@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Woodbend Ward,,2,0,20,60,No,,,137,11:15:00 AM,12:15:00 PM
+9/23/2023 12:28:08,,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,2,4,45,90,Yes,,2,,11:15:00 AM,12:20:00 AM
+9/23/2023 12:28:19,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,1,1,12,60,Yes,,1,,11:30:00 AM,12:15:00 PM
+9/23/2023 12:28:31,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,1,0,55,180,No,Route# 132,,225,,
+9/23/2023 12:28:46,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,1,2,17,40,Yes,Would be helpful to have print outs to put on car saying volunteer,1,113,11:30:00 AM,12:20:00 PM
+9/23/2023 12:29:01,,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,2,3,50,45,No,,,240,11:45:00 AM,12:30:00 PM
+9/23/2023 12:30:01,Kent.mcmullin@gmail.com,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,1,1,23,30,No,,,,11:20:00 AM,11:50:00 AM
+9/23/2023 12:30:34,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,3,30,62,No,,,200,11:03:00 AM,12:06:00 PM
+9/23/2023 12:30:40,,Londonderry Chapel,,Bonnie Doon Stake,Londonderry Ward,,2,0,5,15,No,8,,218,12:00:00 PM,
+9/23/2023 12:31:08,olgamunozvalenciachile@gmail.com,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,2,1,21,35,No,Map should be more specific,,139,11:00:00 AM,11:32:00 AM
+9/23/2023 12:31:45,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,4,50,45,No,More ppl should donate,,236,11:30:00 AM,12:30:00 PM
+9/23/2023 12:32:27,April56@telus.net,Riverbend Stake Centre,,Riverbend Stake,Rabbit Hill Ward,,1,1,43,60,No,,,208,11:10:00 AM,12:15:00 PM
+9/23/2023 12:32:32,kenoliver6@hotmail.com,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,3,25,40,No,We did this route last year and the turn out was not good either.,,118,11:50:00 AM,12:38:00 PM
+9/23/2023 12:32:37,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,1,0,29,69,No,,,266,11:20:00 AM,12:20:00 AM
+9/23/2023 12:32:57,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,0,40,65,No,,,239,11:15:00 AM,12:20:00 AM
+9/23/2023 12:33:30,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,2,85,90,Yes,,3,585,11:00:00 AM,12:30:00 AM
+9/23/2023 12:35:20,JMOAWAD03@GMAIL.COM,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,2,1,30,40,Yes,,2,165,11:00:00 AM,12:30:00 PM
+9/23/2023 12:35:22,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,1,1,18,26,No,,,201,11:45:00 AM,12:10:00 PM
+9/23/2023 12:35:45,,Bearspaw Chapel,,Bonnie Doon Stake,Strathcona Married Student Ward,,1,0,13,60,No,,,,11:21:00 AM,12:22:00 PM
+9/23/2023 12:36:17,,Gateway Stake Centre,,Gateway Stake,Lee Ridge Ward,,2,2,20,45,No,,,151,10:30:00 AM,12:33:00 AM
+9/23/2023 12:36:33,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,0,93,120,Yes,,3,552,10:30:00 AM,12:30:00 AM
+9/23/2023 12:36:39,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,3,22,40,No,,,118,11:50:00 AM,12:30:00 AM
+9/23/2023 12:36:43,,Riverbend Stake Centre,,Riverbend Stake,Drayton Valley Ward,,4,0,80,120,Yes,,4,400,10:30:00 AM,12:00:00 PM
+9/23/2023 12:36:51,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,2,29,45,No,,,342,11:00:00 AM,11:45:00 AM
+9/23/2023 12:37:34,Jmoawad03@gmail.com,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,2,1,35,40,Yes,,2,172,11:30:00 AM,12:30:00 PM
+9/23/2023 12:37:39,,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,1,0,23,60,No,,,163,11:00:00 AM,12:30:00 PM
+9/23/2023 12:37:46,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,2,17,37,No,,,186,11:48:00 AM,12:25:00 PM
+9/23/2023 12:38:26,,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,2,0,22,30,No,Stopped to talk to a few neighbours,,145,10:45:00 AM,11:30:00 AM
+9/23/2023 12:38:56,Jsmccaskills@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Rutherford Ward,,2,0,8,15,No,,,68,12:00:00 PM,12:38:00 PM
+9/23/2023 12:38:58,,Bearspaw Chapel,,Bonnie Doon Stake,Strathcona Married Student Ward,,2,0,11,38,No,There were many no soliciting signs on our route. Many houses still had bags in the mailboxes and appeared uninhabited.,,158,11:39:00 AM,12:22:00 PM
+9/23/2023 12:39:07,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,6,0,20,30,No,,,300,12:00:00 AM,12:30:00 AM
+9/23/2023 12:39:07,,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,2,3,60,90,Yes,,2,257,11:00:00 AM,12:30:00 AM
+9/23/2023 12:39:21,,Riverbend Stake Centre,,Riverbend Stake,Terwillegar Park Ward,,2,1,80,60,Yes,,2,300,11:00:00 AM,12:20:00 AM
+9/23/2023 12:39:28,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,2,1,42,110,Yes,"30% first, 15 20 smaller. Routes: 170, 162",2,191,10:30:00 AM,12:22:00 AM
+9/23/2023 12:41:21,,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,2,3,32,30,No,Super dopey dope,,157,11:30:00 AM,12:15:00 AM
+9/23/2023 12:41:23,sara.a.tidball@gmail.con,Riverbend Stake Centre,,Riverbend Stake,Woodbend Ward,,2,2,54,90,No,,,350,11:00:00 AM,12:40:00 PM
+9/23/2023 12:41:37,baschofield70@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Rabbit Hill Ward,,3,1,100,135,Yes,,2,80,,10:15:00 AM
+9/23/2023 12:42:05,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,4,0,200,240,Yes,7 routes in total- evergreen trailer park,7,607,,
+9/23/2023 12:42:27,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,3,1,25,60,No,129,,25,11:30:00 AM,
+9/23/2023 12:42:36,,Gateway Stake Centre,,Gateway Stake,Rio Vista Ward,,2,1,45,60,Yes,"Very poor this year. The bags said Walmart so lots of people didn't volunteer, yellow bags are better",2,36,11:28:00 AM,12:22:00 PM
+9/23/2023 12:42:48,,Riverbend Stake Centre,,Riverbend Stake,Rabbit Hill Ward,,3,1,110,120,Yes,,3,430,10:45:00 AM,12:25:00 PM
+9/23/2023 12:43:38,,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,2,0,58,75,Yes,,3,,11:20:00 AM,12:30:00 PM
+9/23/2023 12:43:53,,Riverbend Stake Centre,,Riverbend Stake,Greenfield Ward,,2,3,39,120,No,,,110 approx.,10:36:00 AM,12:25:00 PM
+9/23/2023 12:44:25,,Gateway Stake Centre,,Gateway Stake,Lee Ridge Ward,,2,2,35,80,Yes,,2,330,11:10:00 AM,12:30:00 AM
+9/23/2023 12:44:29,Jocelynboutin@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Woodbend Ward,,2,3,88,40,No,,,380,10:45:00 AM,11:00:00 AM
+9/23/2023 12:44:55,,Riverbend Stake Centre,,Riverbend Stake,Rutherford Ward,,1,3,12,30,No,,,142,11:45:00 AM,12:15:00 AM
+9/23/2023 12:45:19,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,3,4,33,30,Yes,,3,206,12:06:00 PM,12:36:00 AM
+9/23/2023 12:45:57,,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,3,0,30,45,No,,,171,11:00:00 AM,11:45:00 AM
+9/23/2023 12:46:23,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,3,0,60,120,Yes,,2,380,10:15:00 AM,12:35:00 PM
+9/23/2023 12:46:26,amandajsteed@gmail.com,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,4,5,14,30,No,,,?,12:00:00 PM,12:30:00 PM
+9/23/2023 12:47:20,,Gateway Stake Centre,,Gateway Stake,Lee Ridge Ward,,2,0,23,25,No,,,160,12:15:00 AM,12:40:00 AM
+9/23/2023 12:47:22,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,1,1,45,90,Yes,"1- 130,2-267. Need to change bags",1 and half,180,11:00:00 AM,12:30:00 PM
+9/23/2023 12:47:23,rebekka.razeau@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Rabbit Hill Ward,,2,4,80,105,Yes,,4,74,11:00:00 AM,12:45:00 AM
+9/23/2023 12:48:07,,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,2,3,20,45,No,Had kids helping ( sometimes slower),,147,12:00:00 PM,12:45:00 PM
+9/23/2023 12:48:08,,Riverbend Stake Centre,,Riverbend Stake,Greenfield Ward,,2,0,100,90,Yes,,2,500,11:00:00 AM,12:35:00 AM
+9/23/2023 12:48:17,,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,3,0,8,30,No,,,60,12:00:00 PM,12:30:00 PM
+9/23/2023 12:49:19,virginia23@shaw.ca,Riverbend Stake Centre,,Riverbend Stake,Rutherford Ward,,5,0,28,60,Yes,,2,260,11:15:00 AM,12:47:00 PM
+9/23/2023 12:49:49,,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,3,4,14,60,Yes,,2,147,11:20:00 AM,12:45:00 PM
+9/23/2023 12:49:55,,Riverbend Stake Centre,,Riverbend Stake,Woodbend Ward,,2,2,65,80,Yes,,2,200,10:30:00 AM,11:50:00 AM
+9/23/2023 12:50:16,rzemp@ualberta.ca,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,3,4,25,35,Yes,,2,166,11:20:00 AM,12:46:00 AM
+9/23/2023 12:50:41,,Riverbend Stake Centre,,Riverbend Stake,Rutherford Ward,,2,2,67,60,Yes,,2,377,11:00:00 AM,12:00:00 PM
+9/23/2023 12:51:38,,Riverbend Stake Centre,,Riverbend Stake,Rutherford Ward,,3,0,34,90,Yes,,2,246,11:00:00 AM,12:30:00 AM
+9/23/2023 12:51:39,cflexhaug@me.com,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,4,9,32,75,No,,,178,11:00:00 AM,12:15:00 PM
+9/23/2023 12:51:45,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,1,1,25,25,No,,,226,12:20:00 PM,12:45:00 PM
+9/23/2023 12:52:20,colesgroeneveld@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Terwillegar Park Ward,,1,1,125,150,Yes,,3,650,10:00:00 AM,12:50:00 PM
+9/23/2023 12:53:43,,North Stake Centre,,Edmonton North Stake,Namao Ward,,2,2,145,150,Yes,,5,2500,10:30:00 AM,1:00:00 AM
+9/23/2023 12:53:43,,Riverbend Stake Centre,,Riverbend Stake,Rutherford Ward,,2,2,40,75,No,,,215,11:15:00 AM,12:20:00 AM
+9/23/2023 12:55:32,,Riverbend Stake Centre,,Riverbend Stake,Terwillegar Park Ward,,3,3,40,60,Yes,,2,280,11:50:00 AM,12:50:00 PM
+9/23/2023 12:55:47,ettamfisher@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Woodbend Ward,,2,0,20,70,No,,,160,11:00:00 AM,12:15:00 PM
+9/23/2023 12:56:14,,Riverbend Stake Centre,,Riverbend Stake,Rabbit Hill Ward,,4,0,65,60,No,,,300,11:00:00 AM,12:55:00 AM
+9/23/2023 12:56:24,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,2,52,125,Yes,"1-95,2-99,3-130 3 routes",3,324,11:00:00 AM,12:45:00 PM
+9/23/2023 12:56:39,abigailmoawad@gmail.com,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,0,2,~20,120,Yes,,2,163,11:15:00 AM,12:20:00 AM
+9/23/2023 12:56:59,,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,0,2,20,60,Yes,,Yes,168,11:15:00 AM,12:20:00 PM
+9/23/2023 12:57:21,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,2,37,140,Yes,"Route1:23 min, r 2: 15, r3: 11",3,321,10:30:00 AM,12:50:00 PM
+9/23/2023 12:59:34,dngarside@shaw.ca,Riverbend Stake Centre,,Riverbend Stake,Rabbit Hill Ward,,4,0,56,120,Yes,,2,200,11:15:00 AM,12:58:00 PM
+9/23/2023 12:59:40,,Riverbend Stake Centre,,Riverbend Stake,Rutherford Ward,,2,0,35,90,Yes,,2,240,10:15:00 AM,11:30:00 AM
+9/23/2023 13:00:26,,North Stake Centre,,Edmonton North Stake,Namao Ward,,1,3,22,40,No,,,172,12:15:00 AM,12:55:00 AM
+9/23/2023 13:01:25,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,5,39,45,Yes,"1-216,2-250",2,466,11:30:00 AM,12:15:00 PM
+9/23/2023 13:01:40,,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,1,0,18,120,Yes,,2,40,10:30:00 AM,12:30:00 PM
+9/23/2023 13:02:31,,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,3,0,22,65,Yes,,2,158,10:30:00 AM,1:30:00 PM
+9/23/2023 13:03:28,,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,1.5,4,41,25,No,,,260,11:15:00 AM,12:25:00 PM
+9/23/2023 13:05:00,,Riverbend Stake Centre,,Riverbend Stake,Rabbit Hill Ward,,1,0,25,80,Yes,,2,273,10:45:00 AM,12:30:00 AM
+9/23/2023 13:05:08,,Londonderry Chapel,,Bonnie Doon Stake,Clareview Ward,,2,0,1,30,No,Route: 136,,100,12:30:00 AM,1:04:00 PM
+9/23/2023 13:06:17,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,1,2,10,30,No,,,205,12:15:00 AM,12:45:00 PM
+9/23/2023 13:06:33,,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,2,3,42,30,No,,,95,12:10:00 PM,1:03:00 PM
+9/23/2023 13:08:55,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,5,25,45,No,Yellow bags were better,,200,12:00:00 PM,12:45:00 PM
+9/23/2023 13:12:47,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,0,70,150,Yes,,3,400,10:50:00 AM,12:50:00 PM
+9/23/2023 13:16:29,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,2,0,69,150,Yes,,3,400,10:30:00 AM,12:55:00 PM
+9/23/2023 13:16:39,lee.danielle.meyer@gmail.com,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,33,4,19,20,Yes,,2,109,10:55:00 AM,11:15:00 AM
+9/23/2023 13:18:52,lee.danielle.meyer@gmail.com,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,1,4,12,20,Yes,,2,178,11:30:00 AM,11:50:00 AM
+9/23/2023 13:20:10,,North Stake Centre,,Edmonton North Stake,Namao Ward,,2,0,45,170,No,,,316,10:30:00 AM,1:15:00 PM
+9/23/2023 13:23:02,,North Stake Centre,,Edmonton North Stake,Griesbach Ward,,1,0,17,15,No,,,140,11:15:00 AM,11:30:00 AM
+9/23/2023 13:23:10,,North Stake Centre,,Edmonton North Stake,Namao Ward,,1,4,24,40,No,,,211,12:30:00 PM,1:10:00 AM
+9/23/2023 13:25:18,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,1,3,77,120,Yes,,2,472,11:00:00 AM,1:00:00 PM
+9/23/2023 13:26:56,,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,1,1,14,45,No,,,150,12:30:00 PM,1:15:00 PM
+9/23/2023 13:29:48,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,2,124,165,Yes,,6,759,10:30:00 AM,1:15:00 PM
+9/23/2023 13:29:54,,Riverbend Stake Centre,,Riverbend Stake,Woodbend Ward,,2,3,25,45,No,,,150ish,11:30:00 AM,12:45:00 PM
+9/23/2023 13:30:39,,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,1,2,15,45,Yes,,2,162,11:30:00 AM,1:20:00 PM
+9/23/2023 13:30:58,,Gateway Stake Centre,,Gateway Stake,Rio Vista Ward,,5,8,33,80,Yes,"1-132,2-125 ,3-140",3,397,12:00:00 PM,1:20:00 PM
+9/23/2023 13:32:07,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,1,50,135,Yes,,2,419,11:00:00 AM,1:15:00 PM
+9/23/2023 13:32:16,,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,1,2,25,45,No,,,160,11:20:00 AM,1:20:00 PM
+9/23/2023 13:34:54,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,1,1,12,60,No,More advertising people and make aware that every should make some donation even one can or anything they can afford,,92,12:00:00 PM,1:00:00 PM
+9/23/2023 13:46:40,,Gateway Stake Centre,,Gateway Stake,Ellerslie Ward,,2,2,20,60,No,Some of the empty bags,,197,12:40:00 PM,1:40:00 PM
+9/23/2023 13:47:49,Templetagteam@telus.net,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,2,1,14,60,No,"Several houses on our route had no soliciting signs or have been empty so that decreased the number of people who knew about it. Usually we do 2 routes but this year that wasn't possible.
+ 
+ Our suggestion for the future to promote it is to get city permission to put a couple of banners on the Whitemud and Yellowhead highway spread out on overpasses (at least 2 to 3 each) at least a week before the flyers are delivered. Also if we can get permission to put the lawn signs out on center meridians on busy streets (ours is 34st) then it would get the local community notified in advance. This would be facing both ways so it would get maximun visability. Maybe the lawn signs and looking after them could be a special assignmnet overseen by the coordinator of the ward.
+ 
+ Would there be more contact and recruitment of ward members by assigning 2 families to work together to organize the food drive flyers etc?
+ 
+ Another idea is if there is a lack of routes filled can the missionaries help deliver some routes? Or an email going out to ask if anyone is up to taking on an additinal one?I know that we have the bulletin but sometimes there is so much i formation in there that I dont get to read it all the way through. A seperate email would be great to get the ward thknking about it maybe 6 to 4 weeks in advance.
+ 
+ We feel badly that the extra routes we usually sign up for didn't seem to be done as we didn't see flyers or bags. This year we had several things happen that meant we couldn't realistically do more. I am sad that was the case. Those areas have donated generously in the past.
+ 
+ What about contacting the schools in our ward as well and asking to put a collection box at the office or recruiting families to help that way. Or doing a presentation to get kids helping deliver flyers after school with supervision by a couple of ward members. We could have done more pickups just not more flyers. I know my daughter's junior high has a point system so there is some friendly competition with bonus points if they do service.
+ 
+ I know our ward did get together this year with at least one community league and had a table at their event.....what about reaching out to other community leagues and making connections in the spring so it can be planned for in the fall?
+ 
+ Other than social media like Facebook would there be sharable links for ward members or ways to promote the event in our community? My husband said he heard it on the radio. What about quick tv commercials promoting it during the local news the week before the food drive?
+ 
+ I am sure we could recruit volunteer donations of flyers or banners or radio time by companies. Or at least products given at a highly discounted cost. Maybe the youth could also design posters for their schools to promote the food drive.
+ 
+ Another idea is what about collaborating with other religious organizations in the city to deliver flyers and collect donations? Maybe it could be tried with 1 or 2 different faiths next year and expand in the future to including more. I dont know how we would choose but there is much good in the hearts of our neighbors and friends to be made.
+ 
+ I would also like to suggest that the stake and wards consider having a donation box at the church year round or at least at activities. Maybe not just for the food drive but for hygeine or sesonal items. There is much need in our community and it would be so lovely if we could encourage more service directly impacting our neighbors and community. This could also help keep our church members outwardly focused and be mindful of ways we can truly love one another.",,147,10:30:00 AM,12:00:00 PM
+9/23/2023 13:48:52,cwil2181@gmail.com,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,1,4,13,35,No,,,177,11:00:00 AM,11:40:00 AM
+9/23/2023 13:55:30,suzmunoz9@gmail.com,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,3,2,68,112,Yes,:),3,466,11:15:00 AM,1:40:00 AM
+9/23/2023 13:58:10,Kcmiller@telusplanet.net,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,5,3,555,90,Yes,,3,200,12:00:00 PM,1:30:00 PM
+9/23/2023 14:21:32,wade.bullock@gmail.com,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,1,0,17,30,No,,,13,11:25:00 AM,12:00:00 PM
+9/23/2023 14:25:29,,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,2,0,19,45,No,,,100+,10:45:00 AM,2:25:00 PM
+9/23/2023 14:27:36,Kathy.stringham@gmail.com,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,2,2,32,60,No,,,174,10:45:00 AM,12:00:00 AM
+9/23/2023 14:42:08,,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,2,0,16,20,No,"Assign larger route area's, suggest we don't start to pick up until 1:00 pm. Some people mentioned they did not think we would be there that early: 11:30, it may result in more bags. A thank you card left in their mailbox may be nice...if donated by a business. Include a longer list of things the foodbank would like to see.
+ So, I spoke to people getting food at a food bank and here are some things I learned from those in need:
+ 1. Everyone donates Kraft Mac and Cheese in the box. They can rarely use it because it needs milk and butter which is hard to get from regular food banks.
+ 2. Boxed milk is a treasure, as kids need it for cereal which they also get a lot of.
+ 3. Everyone donates pasta sauce and spaghetti noodles.
+ 4. They cannot eat all the awesome canned veggies and soup unless you put a can opener in too or buy pop tops.
+ 5. Oil is a luxury but needed for Rice a-Roni which they also get a lot of.
+ 6. Spices or salt and pepper would be a real Christmas gift.
+ 7. Tea bags and coffee make them feel like you care.
+ 8. Sugar and flour are treats.
+ 9. They fawn over fresh produce donated by farmers and grocery stores.
+ 10. Seeds are cool in Spring and Summer because growing can be easy for some.
+ 11. They rarely get fresh meat.
+ 12. Tuna and crackers make a good lunch.
+ 13. Hamburger Helper goes nowhere without ground beef.
+ 14. They get lots of peanut butter and jelly but usually not sandwich bread.
+ 15. Butter or margarine is nice too.
+ 16. Eggs are a real commodity.
+ 17. Cake mix and frosting makes it possible to make a child’s birthday cake.
+ 18. Dishwashing detergent is very expensive and is always appreciated.
+ 19. Feminine hygiene products are a luxury and women will cry over that.
+ 20. Everyone loves Stove Top Stuffing..",,67,11:30:00 AM,12:00:00 PM
+9/23/2023 15:40:46,Calvertge@shaw.ca,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,38,2,29,45,Yes,,2,339,11:00:00 AM,11:45:00 AM
+9/23/2023 15:42:44,Calvertge@shaw.ca,Gateway Stake Centre,,Gateway Stake,Silver Berry Ward,,2,2,17,37,Yes,,2,197,11:48:00 AM,12:25:00 PM
+9/23/2023 16:48:03,redmark19@yahoo.com,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,2,0,20,60,No,Less bags than number of houses,,123,11:00:00 AM,12:00:00 AM
+9/23/2023 19:01:36,ejandersonmomma@gmail.com,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,35 and 43 ? Hawthorn,3,49,60,Yes,I would keep these routes together,2,241,11:00:00 AM,12:29:00 PM
+9/23/2023 19:02:03,,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,2,0,21,40,No,,,109,11:50:00 AM,12:30:00 PM
+9/23/2023 19:05:14,championrobert94@gmail.com,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,2,2,25,10,No,,,190,11:05:00 AM,11:55:00 AM
+9/23/2023 19:19:20,chezkearl@gmail.com,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,3,4,40,35,No,,,155,10:00:00 AM,1:00:00 PM
+9/23/2023 19:26:31,,Parkland (Spruce Grove/Stony Plain),,Edmonton North Stake,Stony Plain Ward,,2,5,20,20,No,,,115,10:00:00 AM,12:30:00 PM
+9/23/2023 19:54:53,danatrupp@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Greenfield Ward,,2,10,29,40,Yes,,3,200,10:20:00 AM,11:00:00 AM
+9/23/2023 19:57:32,danatrupp@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Terwillegar Park Ward,,2,4,29,40,Yes,,3,174,11:00:00 AM,11:40:00 AM
+9/23/2023 19:59:04,danatrupp@gmail.com,Riverbend Stake Centre,,Riverbend Stake,Terwillegar Park Ward,,2,4,39,80,Yes,,3,262,11:40:00 AM,1:00:00 PM
+9/23/2023 19:59:48,proctor5@telus.net,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,2,2,25,75,No,,,202,11:15:00 AM,12:30:00 PM
+9/23/2023 21:44:40,h.litchfield@hotmail.com,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,4,5,34,55,No,,,157,10:34:00 AM,11:29:00 AM
+9/23/2023 22:22:03,Nsteed@telusplanet.net,Bearspaw Chapel,,Gateway Stake,Lee Ridge Ward,,2,0,28,70,No,It would have been nice to drop off a thank you card to those who donated as in past years.,,142,10:35:00 AM,11:35:00 AM
+9/23/2023 22:56:45,,Gateway Stake Centre,,Gateway Stake,Crawford Plains Ward,,2,0,150,150,Yes,6. Routes,6,,10:30:00 AM,1:00:00 PM
+9/24/2023 7:41:33,Annie.salter@gmail.com,Parkland (Spruce Grove/Stony Plain),,Edmonton North Stake,Stony Plain Ward,,1,0,16,30,No,,,,10:15:00 AM,10:45:00 AM
+9/24/2023 9:22:35,,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,4,0,14,45,No,,,13,12:00:00 PM,12:45:00 PM
+9/24/2023 13:37:16,,Bearspaw Chapel,,Gateway Stake,Blackmud Creek Ward,,2,0,22,60,No,"One pass driving, one pass walking. Grey bags hard to notice",,?,11:00:00 AM,12:30:00 AM
+9/24/2023 14:04:23,,Parkland (Spruce Grove/Stony Plain),,Edmonton North Stake,Stony Plain Ward,,2,0,29,60,Yes,,3,240,6:00:00 PM,8:00:00 PM
+9/24/2023 17:58:08,,Bearspaw Chapel,,Bonnie Doon Stake,Southgate Ward,,1,4,30,30,No,,,130,12:30:00 PM,1:00:00 PM
+9/24/2023 21:45:56,janahyermcdonald@hotmail.com,Parkland (Spruce Grove/Stony Plain),,Edmonton North Stake,Stony Plain Ward,,2,0,140,30,No,It was very simple and do-able,,130,10:00:00 AM,11:00:00 AM
+9/24/2023 23:04:02,,Morinville,,Edmonton North Stake,Namao Ward,,2,8,Didn’t keep track sorry,105,Yes,,2,525,10:10:00 AM,11:50:00 AM
+9/25/2023 15:09:20,,Parkland (Spruce Grove/Stony Plain),,Edmonton North Stake,Stony Plain Ward,,unknown,unknown,8,90,Yes,,2,unknown,10:00:00 AM,11:30:00 AM
+9/25/2023 23:38:57,flipper_mea@yahoo.com,Parkland (Spruce Grove/Stony Plain),,Edmonton North Stake,Pioneer Ward,,1,3,52,72,Yes,Plus internet drive our route (unnecessary extra step.) Took 34 mins o double check and Pick up 2 missed bags.,3,254,10:35:00 AM,11:46:00 AM
+9/26/2023 15:08:23,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Strathcona Married Student Ward,,2,1,9,10,No,yellow bright bags,,40,10:18:00 AM,10:54:00 AM
+9/26/2023 15:10:04,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,1,2,24,20,Yes,just flyers will work instead of the bags,2,120,10:20:00 AM,11:03:00 AM
+9/26/2023 15:12:01,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,2,1,16,30,No,,,130,10:30:00 AM,11:11:00 AM
+9/26/2023 15:13:12,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,3,0,14,30,No,,,110,10:25:00 AM,11:16:00 AM
+9/26/2023 15:14:49,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,2,0,6,10,No,,,60,10:30:00 AM,11:15:00 AM
+9/26/2023 15:16:00,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Strathcona Married Student Ward,,2,0,12,20,No,,,66,10:50:00 AM,11:31:00 AM
+9/26/2023 15:17:20,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Connors Hill Ward,,1,0,7,25,No,,,100,11:00:00 AM,11:35:00 AM
+9/26/2023 15:18:41,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Connors Hill Ward,,3,0,28,90,No,,,65,10:35:00 AM,11:40:00 AM
+9/26/2023 15:47:54,,Bonnie Doon Stake Centre,,Bonnie Doon Stake,Forest Heights Ward,,2,2,36,45,Yes,,2,150,10:45:00 AM,11:48:00 AM
+9/26/2023 19:46:56,v.davidenko.can@gmail.com,Morinville,,Edmonton North Stake,Namao Ward,,1,3,around 80,240,Yes,,2,420,10:00:00 AM,2:00:00 PM
+9/27/2023 8:41:35,ejaholman@hotmail.com,Onoway,,Edmonton North Stake,Onoway Ward,,2,0,10,45,No,,,,11:00:00 AM,11:45:00 AM
+9/27/2023 14:24:33,,North Stake Centre,,Edmonton North Stake,Namao Ward,,2,0,20,20,No,,,150,10:30:00 AM,11:15:00 AM
+9/27/2023 14:24:35,,North Stake Centre,,Edmonton North Stake,Namao Ward,,2,0,20,20,No,,,150,10:30:00 AM,11:15:00 AM
+9/28/2023 20:44:23,huggillian@gmail.com,Parkland (Spruce Grove/Stony Plain),,Edmonton North Stake,Stony Plain Ward,,2,4,51,60,Yes,,2,?,6:00:00 PM,8:00:00 PM
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,3,55,195,No,,1,279,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,0,39,120,No,,1,313,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,3,0,12,180,No,,1,161,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,3,0,30,180,No,,1,316,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,0,26,75,No,,1,187,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,3,0,57,180,No,,1,226,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,3,71,195,No,,1,343,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,3,54,135,No,,1,272,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,3,27,135,No,,1,298,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,2,25,135,No,,1,245,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,2,25,135,No,,1,239,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,0,19,75,No,,1,264,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,3,21,45,No,,1,289,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,4,0,31,75,No,,1,267,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,3,12,75,No,,1,200,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,0,17,75,No,,1,303,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,0,35,105,No,,1,288,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,0,35,60,No,,1,257,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,0,17,120,No,,1,186,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,3,0,25,60,No,,1,219,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,1,20,60,No,,1,280,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,2,31,150,No,,1,284,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,3,80,120,No,,1,296,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,2,20,150,No,,1,234,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,2,28,150,No,,1,264,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,3,13,60,No,,1,210,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,3,13,60,No,,1,289,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,0,47,105,No,,1,268,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,0,14,60,No,,1,254,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,2,45,195,No,,1,240,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,2,40,195,No,,1,288,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,3,32,135,No,,1,288,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,3,47,135,No,,1,213,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,0,63,180,No,,1,328,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,0,23,135,No,,1,281,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,1,31,90,No,,1,256,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,0,33,120,No,,1,297,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,3,61,150,No,,1,284,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,3,37,120,No,,1,275,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,0,2,30,120,No,,1,267,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,0,2,18,120,No,,1,275,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,3,1,38,75,No,,1,278,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,0,22,120,No,,1,237,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,2,25,90,No,,1,228,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,1,24,150,No,,1,216,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,1,37,150,No,,1,217,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,1,22,150,No,,1,234,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,3,26,150,No,,1,237,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,2,15,45,No,,1,153,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,2,16,45,No,,1,300,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,0,28,120,No,,1,273,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,0,29,120,No,,1,201,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,1,27,150,No,,1,255,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,0,18,60,No,,1,207,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,2,16,30,No,,1,201,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,1,30,105,No,,1,219,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,1,30,105,No,,1,154,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,2,31,105,No,,1,289,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,2,53,105,No,,1,320,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,1,16,75,No,,1,273,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,1,33,75,No,,1,293,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,1,15,45,No,,1,195,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,1,15,45,No,,1,155,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,3,0,43,60,No,,1,293,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,2,3,38,150,No,,1,305,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,1,38,45,No,,1,299,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,1,1,30,60,No,,1,273,,
+,,Coronation Park Chapel,,North Edmonton,Belmead,,3,3,19,75,No,,1,281,,
