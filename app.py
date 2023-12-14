@@ -86,8 +86,20 @@ def machine_learning_modeling():
     # Predict button
     if st.button("Predict"):
         # Load the trained model
-        model = joblib.load('random_forest_regressor_model.pkl')
+        from sklearn.model_selection import train_test_split
 
+        # Select features (X) and the target variable (y)
+        X = data[['# of Adult Volunteers in this route','Time to Complete (in minutes) pick up of bags /route', '# of Youth Volunteers in this route', 'Number of routes completed', '# of Doors in Route']]
+        y = data['# of Donation Bags Collected/Route']
+
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+        from sklearn.ensemble import RandomForestRegressor
+        model = RandomForestRegressor()  # You can adjust the number of neighbors
+        model.fit(X_train, y_train)
+    
+        # Prepare input data for prediction
+        user_input = [[adult_volunteers, youth_volunteers, time_spent, completed_routes,routes_completed , doors_in_route]]
         # Prepare input data for prediction
         input_data = [[routes_completed, time_spent, adult_volunteers, doors_in_route]]
 
