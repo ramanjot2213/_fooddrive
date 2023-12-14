@@ -77,35 +77,33 @@ def machine_learning_modeling():
     st.write("Enter the details to predict donation bags:")
 
     # Input fields for user to enter data
+    completed_routes = st.slider("Completed More Than One Route", 0, 1, 0)
     routes_completed = st.slider("Routes Completed", 1, 10, 5)
     time_spent = st.slider("Time Spent (minutes)", 10, 300, 60)
     adult_volunteers = st.slider("Number of Adult Volunteers", 1, 50, 10)
     doors_in_route = st.slider("Number of Doors in Route", 10, 500, 100)
-
+    youth_volunteers = st.slider("Number of Youth Volunteers", 0, 50, 10)
 
     # Predict button
     if st.button("Predict"):
-        # Load the trained model
         from sklearn.model_selection import train_test_split
 
-        # Select features (X) and the target variable (y)
-        X = data[['# of Adult Volunteers in this route','Time to Complete (in minutes) pick up of bags /route', '# of Youth Volunteers in this route', 'Number of routes completed', '# of Doors in Route']]
-        y = data['# of Donation Bags Collected/Route']
-
+        X = data.drop(columns=['Donation Bags Collected','Location','Ward/Branch','Stake','Unnamed: 0'])
+        y = data['Donation Bags Collected']
         X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
-        from sklearn.ensemble import RandomForestRegressor
-        model = RandomForestRegressor()  # You can adjust the number of neighbors
+        from sklearn.neighbors import KNeighborsRegressor
+        model = KNeighborsRegressor(n_neighbors=5)  # You can adjust the number of neighbors
         model.fit(X_train, y_train)
     
         # Prepare input data for prediction
-        user_input = [[adult_volunteers, youth_volunteers, time_spent, routes_completed , doors_in_route]]
-        
+        user_input = [[adult_volunteers, youth_volunteers, time_spent, completed_routes,routes_completed , doors_in_route]] 
+
         # Make prediction
-        prediction = model.predict(user_data)
+        prediction = model.predict(user_input)
 
         # Display the prediction
-        st.success(f"Predicted Donation Bags: {prediction[0]}")
+        st.success(f"Predicted Donation Bags: {prediction[0]}")       
 def chatbot():
     st.title("Interactive Food Drive Assistant")
     st.write("Ask a question about the Food Drive!")
