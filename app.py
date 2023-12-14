@@ -8,7 +8,7 @@ os.environ['GRADIENT_ACCESS_TOKEN'] = st.secrets["GRADIENT_ACCESS_TOKEN"]
 os.environ['GRADIENT_WORKSPACE_ID'] = st.secrets["GRADIENT_WORKSPACE_ID"]
 
 # Load the dataset with a specified encoding
-data = pd.read_csv('fooddrive.csv', encoding='latin1')
+data = pd.read_csv('cleaneddata.csv', encoding='latin1')
 
 # Page 1: Dashboard
 def dashboard():
