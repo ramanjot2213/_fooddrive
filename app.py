@@ -99,12 +99,10 @@ def machine_learning_modeling():
         model.fit(X_train, y_train)
     
         # Prepare input data for prediction
-        user_input = [[adult_volunteers, youth_volunteers, time_spent, completed_routes,routes_completed , doors_in_route]]
-        # Prepare input data for prediction
-        input_data = [[routes_completed, time_spent, adult_volunteers, doors_in_route]]
-
+        user_input = [[adult_volunteers, youth_volunteers, time_spent, routes_completed , doors_in_route]]
+        
         # Make prediction
-        prediction = model.predict(input_data)
+        prediction = model.predict(user_data)
 
         # Display the prediction
         st.success(f"Predicted Donation Bags: {prediction[0]}")
