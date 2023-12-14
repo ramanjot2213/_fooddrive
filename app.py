@@ -13,7 +13,7 @@ data = pd.read_csv('fooddrive.csv', encoding='latin1')
 # Page 1: Dashboard
 def dashboard():
     st.title("Edmonton Food Drive Dashboard")
-    st.image("/content/Untitled design.jpg")
+    st.image("Untitled design.jpg")
 
     st.subheader("💡 Abstract:")
     inspiration = '''
@@ -32,7 +32,7 @@ def dashboard():
     st.write(what_it_does)
 
 def stakeholders():
-    st.image(['/content/WhatsApp Image 2023-12-13 at 14.40.27_6533e7d9.jpg', '/content/WhatsApp Image 2023-12-13 at 14.40.17_a145700a.jpg','/content/WhatsApp Image 2023-12-13 at 14.40.37_7307f472.jpg','/content/WhatsApp Image 2023-12-13 at 14.40.52_121eb9c6.jpg','/content/WhatsApp Image 2023-12-13 at 14.42.42_e23edd29.jpg'])
+    st.image(['WhatsApp Image 2023-12-13 at 14.40.27_6533e7d9.jpg', 'WhatsApp Image 2023-12-13 at 14.40.17_a145700a.jpg','WhatsApp Image 2023-12-13 at 14.40.37_7307f472.jpg','WhatsApp Image 2023-12-13 at 14.40.52_121eb9c6.jpg','WhatsApp Image 2023-12-13 at 14.42.42_e23edd29.jpg'])
 
 def data_collection():
     st.title("Data Collection")
@@ -86,7 +86,7 @@ def machine_learning_modeling():
     # Predict button
     if st.button("Predict"):
         # Load the trained model
-        model = joblib.load('/content/random_forest_regressor_model.pkl')
+        model = joblib.load('random_forest_regressor_model.pkl')
 
         # Prepare input data for prediction
         input_data = [[routes_completed, time_spent, adult_volunteers, doors_in_route]]
@@ -115,7 +115,7 @@ def chatbot():
 
         # Delete the model adapter after generating the response
         new_model_adapter.delete()
-geodata = pd.read_csv("/content/ADDRESS ONLY Property_Assessment_Data__Current_Calendar_Year_ - Property_Assessment_Data__Current_.csv")        
+geodata = pd.read_csv("ADDRESS ONLY Property_Assessment_Data__Current_Calendar_Year_ - Property_Assessment_Data__Current_.csv")        
 def neighbourhood_mapping():
     st.title("Neighbourhood Mapping")
 
